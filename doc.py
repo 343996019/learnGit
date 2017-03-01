@@ -6,4 +6,4 @@ def doc():
     """
     print "doc"
  
- print doc().__doc__
+ print doc.__doc__
